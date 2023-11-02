@@ -1,6 +1,6 @@
 <template>
   <q-card
-    dark bordered class="bg-deep-orange-9 my-card q-ma-md"
+    dark bordered class="bg-primary my-card q-ma-md"
   >
     <q-card-section style="text-align: center;">
       <div class="text-h6">Normativa</div>
