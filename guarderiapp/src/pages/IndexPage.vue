@@ -23,7 +23,7 @@ export default defineComponent({
   },
   setup(){
     const valores = [{nombre:'Mision',descripcion:'naguara'},{nombre:'Vision',descripcion:'naguarax2'}]
-    const normas = ['hola','soy el mismo']
+    const normas = ['','soy el mismo','el que da la vida','por estar contigo']
     return{
       valores,normas
     }
